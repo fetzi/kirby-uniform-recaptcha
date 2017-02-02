@@ -66,4 +66,4 @@ The plugin needs the recaptcha Javascript File provided by Google. You can eithe
 
 ## Author
 
-Johannes Pichler [https://www.jopic.at](https://www.jopic.at)
+Johannes Pichler [https://johannespichler.com](https://johannespichler.com)
